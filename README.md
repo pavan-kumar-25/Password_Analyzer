@@ -28,7 +28,7 @@ Ensure you have **Node.js** and **npm** or **yarn** installed on your system.
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/password-analyzer.git
+   git clone https://github.com/pavan-kumar-25/password-analyzer.git
    cd password-analyzer
    ```
 2. Install dependencies:
@@ -90,5 +90,5 @@ This project is licensed under the MIT License.
 Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 ## Author
-[Your Name](https://github.com/your-username)
+[Pavan Kumar](https://github.com/pavan-kumar-25)
 
